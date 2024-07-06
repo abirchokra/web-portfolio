@@ -8,7 +8,80 @@ nav{
     font-family: sans-serif;
     font-weight: 800;
     font-size: 45px;
+    margin-left: 200px;
+
 }
 .color{
     color: #FD6E0A;
+}
+.header{
+    background-image: url('../images/developer.png'),url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: top left,bottom right;
+
+
+}
+nav{
+    justify-content: space-between;
+    margin: 0 auto;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    
+    
+}
+nav ul li{
+    display: flex;
+    margin-right: 35px;
+    
+
+
+}
+
+nav li a{
+    text-decoration: none;
+}
+.menu-color{
+    color: #474747;
+}
+
+.btn{
+    background-color: #FD6E0A;
+    color: white;
+    border-radius: 5px;
+    padding: 18px 35px;
+    cursor: pointer;
+    border: none;
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 35px 0 230px;
+    
+}
+.profile{
+    width: 580px;
+
+}
+.lekha{
+    max-width: 585px;
+    margin-left: 200px;
+}
+.greeting{
+    font-size: 45px;
+    color: #474747;
+    font-weight: 600;
+
+}
+.name{
+    font-size: 85px;
+    font-weight: bold;
+    color: #181818;
+}
+.pera{
+    font-size: 500;
+    font-size: 18px;
+    color:#757575 ;
 }
