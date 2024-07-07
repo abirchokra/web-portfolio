@@ -127,12 +127,12 @@ nav li a{
 /* skill style  */
 
 .what{
-    padding: 131px 157px;
+    padding: 120px 70px;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
     background-color:#FFF8F3 ;
     width: 1140px;
     border-radius: 10px;
-    margin-left: 150px;
+    margin-left: 230px;
 
     
     
@@ -158,6 +158,7 @@ nav li a{
     display: flex;
     margin-top: 30px;
     
+   
   
  
 }
@@ -167,7 +168,9 @@ nav li a{
     
     gap: 24px;
     padding: 30px;
-   
+    
+    margin-right: 35px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 
     margin-top: 55px;
   
