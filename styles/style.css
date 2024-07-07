@@ -67,7 +67,7 @@ nav li a{
 }
 .lekha{
     max-width: 585px;
-    margin-left: 200px;
+    margin-left: 25px;
 }
 .greeting{
     font-size: 45px;
@@ -105,15 +105,74 @@ nav li a{
 }
 .lekha-two{
 
-    font: size 18px;
+    font-size:  18px;
     font-weight: 500;
     color: #757575;
 }
 .about-items{
     display: flex;
     justify-content: space-around;
+    
+}
+.about-item{
+    
 }
 .item-description{
     font-weight: bold;
     font-size: 20px;
+}
+
+/* skill style  */
+
+.what{
+    padding: 131px 157px;
+}
+.i{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+.p{
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+    
+    
+    color: #757575;
+    
+
+}
+.skills{
+    display: flex;
+    margin-top: 30px;
+    
+  
+ 
+}
+.skill{
+    
+    text-align: center;
+    
+    gap: 24px;
+    padding: 30px;
+   
+
+    margin-top: 55px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    
+   
+}
+.skill .title{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.skill .description{
+  
+    font-size: 16px;
+    color:#757575 ;
+    font-family: sans-serif;
 }
